@@ -1,8 +1,7 @@
 # Contributor: Felix Walter <code at felix dash walter dot eu>
 # This uses modified code from package brother-mfc-9335cdw by Leo Pham <regretfulumbrella at gmail dot com>
 #
-# fixed for personal use by github.com/hyphenc, therefore
-# Maintainer: github.com/hyphenc
+# Maintainer: github.com/nunq
 # the aur pkgbuild was missing the lib32-glibc dependency on x86_64 systems.
 # makepkg --printsrcinfo > .SRCINFO && makepkg -si
 # sudo systemctl restart org.cups.cupsd.service
